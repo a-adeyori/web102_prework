@@ -1,8 +1,8 @@
-# WEB102 Prework - *Sea Monster Crowdfunding*
+# WEB102 Prework - *Game Wave*
 
 Submitted by: **Adeyori Adekunle**
 
-**Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Game Wave** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **10** hours spent in total
 
@@ -18,16 +18,16 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] Added hover feature with designs to the three buttons that allow the user to display only unfunded games, only funded games, or all games.
-* [ ] Added a bookmark at the navigation bar to get access to the Games section
+* [ ] Added a bookmark at the navigation bar to get access to the Games section with a single click
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://somup.com/cZXeIyJc5y' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenPal 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,7 +35,7 @@ GIF created with ...
 
 ## Notes
 
-Had to remember certain syntax when creating the functionality.
+Had to review certain syntax for JavaScript when creating the functionality.
 
 ## License
 

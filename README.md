@@ -4,7 +4,7 @@ Submitted by: **Adeyori Adekunle**
 
 **Game Wave** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **10** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://somup.com/cZXeIyJc5y' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/user-attachments/assets/d094eb86-ac65-48d5-ae6e-5f7b7a642895
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenPal 

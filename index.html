@@ -8,10 +8,23 @@
 
   <body>
     <!-- header row with logo -->
-    <div class="header">
-        <img id="tentacles" src="assets/tentacles.png">
-        <h1 class="header-text">Sea Monster Crowdfunding</h1>
-    </div>
+        <div class="header">
+            <div>
+                <div class= "left-nav">
+                    <div><img id="tentacles" src="assets/tentacles.png"></div>
+                    <div><h1 class="header-text">Sea Monster Crowdfunding</h1></div>
+                </div>
+               
+            </div>
+            
+    
+            <div id="right-nav">
+                <a class="anchor" href="#our-games">
+                    <h1 class="navigation">Games Section</h1>
+                </a>
+            </div>
+        </div>
+   
 
     <!-- background info about company -->
     <h2>Welcome to Sea Monster!</h2>
@@ -48,7 +61,7 @@
     </div>
 
     <!-- list of games funded by Sea Monster -->
-    <h2>Our Games</h2>
+    <h2 id="our-games">Our Games</h2>
     <p>Check out each of our games below!</p>
     <div id="button-container">
         <button id="unfunded-btn">Show Unfunded Only</button>
